@@ -9,8 +9,3 @@ This repository contains the code for the following paper:
   year={2020}
 }
 ```
-
-### Note
-
-The detailed running instructions and orchestration scripts will be provided later. 
-The current version of the codebase provides the complete modeling code.
